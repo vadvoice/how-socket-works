@@ -11,12 +11,12 @@ yarn watch
 
 ---------------
 
-![example](sources/starting.gif)
+![start](sources/starting.gif)
 ![example](sources/exp.gif)
 
 Available links:
-- client: localhost:3000
-- server: localhost:3001
+- client: http://localhost:3000
+- server: http://localhost:3001
 
 
 ## License
