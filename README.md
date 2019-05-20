@@ -12,6 +12,7 @@ yarn watch
 ---------------
 
 ![example](sources/starting.gif)
+![example](sources/exp.gif)
 
 Available links:
 - client: localhost:3000
