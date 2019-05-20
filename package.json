@@ -1,0 +1,12 @@
+{
+  "name": "how-socket-works",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "concurrently \"cd socket-chat-client && npm run start\" \"cd socket-chat-server && npm run start\""
+  },
+  "dependencies": {
+    "concurrently": "^4.1.0"
+  }
+}
